@@ -1,1 +1,1 @@
-# parallel_effect_website
+# parallax_effect_website
