@@ -1,6 +1,6 @@
 # Adventure-themed Website with Parallax Effect
 
-![Adventure Time]
+
 
 Welcome to my Adventure-themed website! This website was created as a project to showcase my frontend development skills and to capture the adventurous spirit inspired by the world of "Adventure Time."
 
@@ -32,7 +32,7 @@ Welcome to my Adventure-themed website! This website was created as a project to
 
 To run this website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-shindesuyash/parallax_effect_website.git`
+1. Clone the repository: `git clone https://github.com/shindesuyash/parallax_effect_website.git`
 2. Navigate to the project directory: `cd parallel_effect_website`
 
 ## Usage
